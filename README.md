@@ -49,4 +49,4 @@ Each project includes Jupyter notebooks, datasets, and implementations using mac
 ## 🚀 How to Use This Repository
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/.git
+   git clone https://github.com/your-username/Machine-Learning-Projects.git
